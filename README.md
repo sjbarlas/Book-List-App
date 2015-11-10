@@ -1,2 +1,1 @@
-# BookListApp
-in Java Android
+for Mobile Software Development
