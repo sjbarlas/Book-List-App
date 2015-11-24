@@ -3,23 +3,25 @@
     android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity" >
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:background="#2EC4B6" >
 
     <!--<TextView android:text="@string/hello_world" android:layout_width="wrap_content"
         android:layout_height="wrap_content" /> -->
-
 
     <Button
         android:id="@+id/button_reading"
         android:layout_width="fill_parent"
         android:layout_height="100dp"
         android:text="reading"
-        android:layout_marginTop="90dp"
+        android:layout_marginTop="80dp"
         android:layout_centerHorizontal="true"
         android:textAllCaps="true"
         android:textSize="35sp"
         android:typeface="serif"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        android:textColor="#2EC4B6"
+        android:background="#E71D36"/>
 
     <Button
         android:id="@+id/button_completed"
@@ -32,17 +34,20 @@
         android:textSize="35sp"
         android:typeface="serif"
         android:textStyle="bold"
-        android:textColor="#000000"/>
+        android:textColor="#2EC4B6"
+        android:background="#E71D36"/>
 
     <Button
         android:id="@+id/button_planToRead"
         android:layout_width="fill_parent"
         android:layout_height="100dp"
         android:text="plan to read"
-        android:layout_marginTop="290dp"
+        android:layout_marginTop="299dp"
         android:layout_centerHorizontal="true"
         android:textAllCaps="true"
         android:textSize="35sp"
         android:typeface="serif"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        android:textColor="#2EC4B6"
+        android:background="#E71D36"/>
 </RelativeLayout>
