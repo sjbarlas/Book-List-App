@@ -5,3 +5,8 @@ New Activity? NEW SCREEN
 1. Phone will look for ANDROIDMANIFEST.XML first
 2. Look for activity attribute
 3. Java says go to activity_main and launched the layout (for me = HOME)
+
+Java: The Professional
+Resources: The Artist
+AndroidManifest.xml: The Boss
+Intent: The Job itself
