@@ -21,7 +21,7 @@
         android:typeface="serif"
         android:textStyle="bold"
         android:textColor="#2EC4B6"
-        android:background="#E71D36"/>
+        android:background="#E71D36" />
 
     <Button
         android:id="@+id/button_completed"
@@ -35,7 +35,7 @@
         android:typeface="serif"
         android:textStyle="bold"
         android:textColor="#2EC4B6"
-        android:background="#E71D36"/>
+        android:background="#E71D36" />
 
     <Button
         android:id="@+id/button_planToRead"
@@ -49,6 +49,6 @@
         android:typeface="serif"
         android:textStyle="bold"
         android:textColor="#2EC4B6"
-        android:background="#E71D36"/>
+        android:background="#E71D36" />
 
 </RelativeLayout>
