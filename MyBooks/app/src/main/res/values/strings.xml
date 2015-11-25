@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">My Books</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="readingButton">Reading</string>
+    <string name="completedButton">Completed</string>
+    <string name="planToReadButton">Plan to read</string>
 </resources>
