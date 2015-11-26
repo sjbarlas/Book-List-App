@@ -7,4 +7,9 @@
     <string name="readingButton">Reading</string>
     <string name="completedButton">Completed</string>
     <string name="planToReadButton">Plan to read</string>
+    <string name="title_activity_reading">Reading</string>
+
+    <!-- Reading Screen -->
+    <string name="hello_world">Hello world!</string>
+
 </resources>
